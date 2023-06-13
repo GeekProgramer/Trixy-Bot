@@ -3,7 +3,7 @@
 A Discord based bot using JDA 5. This bot helps programmers to take a break from their hectic schedule and brighten their mood by providing various commands.
 
 
-Commands Included:
+## Commands Included:
 
 //game
 
@@ -22,14 +22,14 @@ Commands Included:
 /help
 
 
-Resources used
+ ## Resources used
 
 JDA 5
 
 MongoDB : To store the score of the user. Can all be used to store the other data like jokes, memes or pickuplines.
 
 
-How to install it
+ ## How to install it
 
 Download from the github and open in any editor
 
@@ -40,8 +40,8 @@ Make a database named trixy in MongoDB, create a collection named score that has
 Replace the bot token in env file (You can access your bot token from discord developer potal).
 
 
-Current Status
+## Current Status
 Not hosted on any server currently
 
-Future Plans
+## Future Plans
 Many more commands can be added
